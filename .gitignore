@@ -28,6 +28,8 @@
 
 #pem file
 MMDBM.pem
+#Research Project
+ResearchProject
 
 ## Bibliography auxiliary files (bibtex/biblatex/biber):
 *.bbl
