@@ -2,7 +2,7 @@
 *.aux
 *.lof
 *.log
-*.lot
+*.ot
 *.fls
 *.out
 *.toc
@@ -21,6 +21,9 @@
 *.tex 
 *.pdf
 *.sty
+
+mirflickr*
+*.zip
 
 #APPLE
 .DS_Store
