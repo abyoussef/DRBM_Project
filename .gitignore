@@ -24,6 +24,8 @@
 
 mirflickr*
 *.zip
+ivy2016.pem
+
 
 #APPLE
 .DS_Store
