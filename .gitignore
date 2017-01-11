@@ -26,7 +26,6 @@ mirflickr*
 *.zip
 ivy2016.pem
 
-
 #APPLE
 .DS_Store
 *.DS_Store
@@ -34,6 +33,7 @@ ivy2016.pem
 #pem file
 MMDBM.pem
 #Research Project
+Paper
 ResearchProject
 flickr_data
 mirflickr25k
