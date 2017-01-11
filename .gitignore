@@ -38,6 +38,7 @@ ResearchProject
 flickr_data
 mirflickr25k
 mirflickr25k_annotations_v080
+features_edgehistogram
 ## Bibliography auxiliary files (bibtex/biblatex/biber):
 *.bbl
 *.bcf
