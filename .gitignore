@@ -35,7 +35,9 @@ ivy2016.pem
 MMDBM.pem
 #Research Project
 ResearchProject
-
+flickr_data
+mirflickr25k
+mirflickr25k_annotations_v080
 ## Bibliography auxiliary files (bibtex/biblatex/biber):
 *.bbl
 *.bcf
