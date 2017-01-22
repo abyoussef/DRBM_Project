@@ -1,0 +1,348 @@
+tep 5500  T_CE: 10.546 V_CE: 10.563 V_MAP: 0.460 V_prec50: 0.739 E_CE: 10.548 E_MAP: 0.456 E_prec50: 0.767
+Step 6000  T_CE: 10.464 V_CE: 10.495 V_MAP: 0.460 V_prec50: 0.739 E_CE: 10.480 E_MAP: 0.456 E_prec50: 0.766
+Step 6500  T_CE: 10.389 V_CE: 10.432 V_MAP: 0.461 V_prec50: 0.741 E_CE: 10.417 E_MAP: 0.457 E_prec50: 0.766
+Step 7000  T_CE: 10.318 V_CE: 10.374 V_MAP: 0.461 V_prec50: 0.743 E_CE: 10.359 E_MAP: 0.457 E_prec50: 0.766
+Step 7500  T_CE: 10.252 V_CE: 10.320 V_MAP: 0.462 V_prec50: 0.743 E_CE: 10.306 E_MAP: 0.458 E_prec50: 0.766
+Step 8000  T_CE: 10.190 V_CE: 10.270 V_MAP: 0.462 V_prec50: 0.745 E_CE: 10.256 E_MAP: 0.458 E_prec50: 0.768
+Step 8500  T_CE: 10.132 V_CE: 10.224 V_MAP: 0.463 V_prec50: 0.745 E_CE: 10.210 E_MAP: 0.459 E_prec50: 0.770
+Step 9000  T_CE: 10.077 V_CE: 10.181 V_MAP: 0.463 V_prec50: 0.744 E_CE: 10.167 E_MAP: 0.459 E_prec50: 0.772
+Step 9500  T_CE: 10.026 V_CE: 10.141 V_MAP: 0.464 V_prec50: 0.746 E_CE: 10.128 E_MAP: 0.460 E_prec50: 0.772
+Step 10000  T_CE: 9.977 V_CE: 10.104 V_MAP: 0.465 V_prec50: 0.748 E_CE: 10.091 E_MAP: 0.461 E_prec50: 0.776
+Writing checkpoint /home/ubuntu/pynb/flickr/dbn_models/classifiers/split_3/text_input_classifier_1485019805
+Best valid MAP : 0.4650 Test MAP 0.4609
+Writing current best model /home/ubuntu/pynb/flickr/dbn_models/classifiers/split_3/text_input_classifier_BEST
+Split 4 image_input
+Step 500  T_CE: 13.448 V_CE: 11.002 V_MAP: 0.394 V_prec50: 0.600 E_CE: 10.927 E_MAP: 0.393 E_prec50: 0.618
+Step 1000  T_CE: 7.975 V_CE: 10.074 V_MAP: 0.409 V_prec50: 0.617 E_CE: 9.953 E_MAP: 0.409 E_prec50: 0.648
+Step 1500  T_CE: 6.780 V_CE: 9.971 V_MAP: 0.417 V_prec50: 0.626 E_CE: 9.823 E_MAP: 0.414 E_prec50: 0.650
+Step 2000  T_CE: 6.148 V_CE: 10.014 V_MAP: 0.417 V_prec50: 0.634 E_CE: 9.851 E_MAP: 0.415 E_prec50: 0.650
+Step 2500  T_CE: 5.727 V_CE: 10.152 V_MAP: 0.420 V_prec50: 0.631 E_CE: 10.006 E_MAP: 0.416 E_prec50: 0.658
+Step 3000  T_CE: 5.416 V_CE: 10.378 V_MAP: 0.416 V_prec50: 0.627 E_CE: 10.205 E_MAP: 0.412 E_prec50: 0.652
+Step 3500  T_CE: 5.170 V_CE: 10.575 V_MAP: 0.415 V_prec50: 0.636 E_CE: 10.364 E_MAP: 0.412 E_prec50: 0.655
+Step 4000  T_CE: 4.968 V_CE: 10.777 V_MAP: 0.410 V_prec50: 0.623 E_CE: 10.554 E_MAP: 0.408 E_prec50: 0.642
+Step 4500  T_CE: 4.797 V_CE: 11.057 V_MAP: 0.412 V_prec50: 0.627 E_CE: 10.841 E_MAP: 0.407 E_prec50: 0.650
+Step 5000  T_CE: 4.655 V_CE: 11.155 V_MAP: 0.409 V_prec50: 0.625 E_CE: 10.944 E_MAP: 0.405 E_prec50: 0.646
+Step 5500  T_CE: 4.530 V_CE: 11.382 V_MAP: 0.403 V_prec50: 0.618 E_CE: 11.159 E_MAP: 0.400 E_prec50: 0.632
+Step 6000  T_CE: 4.413 V_CE: 11.519 V_MAP: 0.405 V_prec50: 0.618 E_CE: 11.315 E_MAP: 0.401 E_prec50: 0.632
+Step 6500  T_CE: 4.308 V_CE: 11.716 V_MAP: 0.405 V_prec50: 0.621 E_CE: 11.468 E_MAP: 0.400 E_prec50: 0.630
+Step 7000  T_CE: 4.227 V_CE: 11.982 V_MAP: 0.402 V_prec50: 0.619 E_CE: 11.730 E_MAP: 0.399 E_prec50: 0.629
+Step 7500  T_CE: 4.151 V_CE: 12.090 V_MAP: 0.397 V_prec50: 0.609 E_CE: 11.858 E_MAP: 0.393 E_prec50: 0.623
+Step 8000  T_CE: 4.078 V_CE: 12.322 V_MAP: 0.399 V_prec50: 0.619 E_CE: 12.073 E_MAP: 0.396 E_prec50: 0.618
+Step 8500  T_CE: 4.011 V_CE: 12.535 V_MAP: 0.395 V_prec50: 0.604 E_CE: 12.261 E_MAP: 0.393 E_prec50: 0.621
+Step 9000  T_CE: 3.952 V_CE: 12.685 V_MAP: 0.394 V_prec50: 0.607 E_CE: 12.419 E_MAP: 0.390 E_prec50: 0.615
+Step 9500  T_CE: 3.895 V_CE: 12.844 V_MAP: 0.394 V_prec50: 0.605 E_CE: 12.589 E_MAP: 0.391 E_prec50: 0.614
+Step 10000  T_CE: 3.846 V_CE: 13.090 V_MAP: 0.394 V_prec50: 0.600 E_CE: 12.809 E_MAP: 0.391 E_prec50: 0.610
+Writing checkpoint /home/ubuntu/pynb/flickr/dbn_models/classifiers/split_4/image_input_classifier_1485019830
+Best valid MAP : 0.4199 Test MAP 0.4161
+Writing current best model /home/ubuntu/pynb/flickr/dbn_models/classifiers/split_4/image_input_classifier_BEST
+Split 4 image_hidden1
+Step 500  T_CE: 9.622 V_CE: 9.130 V_MAP: 0.404 V_prec50: 0.626 E_CE: 9.032 E_MAP: 0.410 E_prec50: 0.668
+Step 1000  T_CE: 8.539 V_CE: 8.839 V_MAP: 0.436 V_prec50: 0.664 E_CE: 8.734 E_MAP: 0.441 E_prec50: 0.712
+Step 1500  T_CE: 8.126 V_CE: 8.729 V_MAP: 0.453 V_prec50: 0.686 E_CE: 8.612 E_MAP: 0.456 E_prec50: 0.734
+Step 2000  T_CE: 7.842 V_CE: 8.653 V_MAP: 0.463 V_prec50: 0.695 E_CE: 8.521 E_MAP: 0.465 E_prec50: 0.739
+Step 2500  T_CE: 7.622 V_CE: 8.613 V_MAP: 0.469 V_prec50: 0.697 E_CE: 8.478 E_MAP: 0.470 E_prec50: 0.745
+Step 3000  T_CE: 7.441 V_CE: 8.604 V_MAP: 0.472 V_prec50: 0.702 E_CE: 8.464 E_MAP: 0.473 E_prec50: 0.748
+Step 3500  T_CE: 7.286 V_CE: 8.596 V_MAP: 0.474 V_prec50: 0.706 E_CE: 8.452 E_MAP: 0.475 E_prec50: 0.752
+Step 4000  T_CE: 7.152 V_CE: 8.602 V_MAP: 0.476 V_prec50: 0.706 E_CE: 8.451 E_MAP: 0.477 E_prec50: 0.755
+Step 4500  T_CE: 7.031 V_CE: 8.612 V_MAP: 0.476 V_prec50: 0.707 E_CE: 8.454 E_MAP: 0.477 E_prec50: 0.757
+Step 5000  T_CE: 6.924 V_CE: 8.628 V_MAP: 0.477 V_prec50: 0.712 E_CE: 8.471 E_MAP: 0.478 E_prec50: 0.759
+Step 5500  T_CE: 6.826 V_CE: 8.645 V_MAP: 0.476 V_prec50: 0.711 E_CE: 8.487 E_MAP: 0.478 E_prec50: 0.760
+Step 6000  T_CE: 6.735 V_CE: 8.678 V_MAP: 0.476 V_prec50: 0.712 E_CE: 8.520 E_MAP: 0.477 E_prec50: 0.761
+Step 6500  T_CE: 6.652 V_CE: 8.693 V_MAP: 0.476 V_prec50: 0.714 E_CE: 8.538 E_MAP: 0.477 E_prec50: 0.762
+Step 7000  T_CE: 6.576 V_CE: 8.730 V_MAP: 0.475 V_prec50: 0.713 E_CE: 8.560 E_MAP: 0.477 E_prec50: 0.762
+Step 7500  T_CE: 6.503 V_CE: 8.737 V_MAP: 0.475 V_prec50: 0.709 E_CE: 8.566 E_MAP: 0.477 E_prec50: 0.759
+Step 8000  T_CE: 6.438 V_CE: 8.769 V_MAP: 0.474 V_prec50: 0.707 E_CE: 8.600 E_MAP: 0.476 E_prec50: 0.757
+Step 8500  T_CE: 6.375 V_CE: 8.790 V_MAP: 0.474 V_prec50: 0.705 E_CE: 8.618 E_MAP: 0.475 E_prec50: 0.759
+Step 9000  T_CE: 6.316 V_CE: 8.828 V_MAP: 0.473 V_prec50: 0.702 E_CE: 8.655 E_MAP: 0.474 E_prec50: 0.757
+Step 9500  T_CE: 6.260 V_CE: 8.861 V_MAP: 0.472 V_prec50: 0.704 E_CE: 8.689 E_MAP: 0.473 E_prec50: 0.756
+Step 10000  T_CE: 6.209 V_CE: 8.873 V_MAP: 0.471 V_prec50: 0.704 E_CE: 8.710 E_MAP: 0.472 E_prec50: 0.755
+Writing checkpoint /home/ubuntu/pynb/flickr/dbn_models/classifiers/split_4/image_hidden1_classifier_1485019852
+Best valid MAP : 0.4767 Test MAP 0.4782
+Writing current best model /home/ubuntu/pynb/flickr/dbn_models/classifiers/split_4/image_hidden1_classifier_BEST
+Split 4 image_hidden2
+Step 500  T_CE: 9.905 V_CE: 9.227 V_MAP: 0.407 V_prec50: 0.621 E_CE: 9.164 E_MAP: 0.406 E_prec50: 0.650
+Step 1000  T_CE: 8.794 V_CE: 8.900 V_MAP: 0.436 V_prec50: 0.664 E_CE: 8.824 E_MAP: 0.434 E_prec50: 0.691
+Step 1500  T_CE: 8.452 V_CE: 8.757 V_MAP: 0.451 V_prec50: 0.676 E_CE: 8.674 E_MAP: 0.449 E_prec50: 0.711
+Step 2000  T_CE: 8.235 V_CE: 8.677 V_MAP: 0.459 V_prec50: 0.689 E_CE: 8.591 E_MAP: 0.457 E_prec50: 0.727
+Step 2500  T_CE: 8.079 V_CE: 8.642 V_MAP: 0.465 V_prec50: 0.697 E_CE: 8.544 E_MAP: 0.464 E_prec50: 0.730
+Step 3000  T_CE: 7.954 V_CE: 8.601 V_MAP: 0.469 V_prec50: 0.698 E_CE: 8.503 E_MAP: 0.468 E_prec50: 0.735
+Step 3500  T_CE: 7.851 V_CE: 8.586 V_MAP: 0.472 V_prec50: 0.701 E_CE: 8.483 E_MAP: 0.470 E_prec50: 0.738
+Step 4000  T_CE: 7.763 V_CE: 8.581 V_MAP: 0.474 V_prec50: 0.701 E_CE: 8.476 E_MAP: 0.472 E_prec50: 0.741
+Step 4500  T_CE: 7.686 V_CE: 8.567 V_MAP: 0.475 V_prec50: 0.703 E_CE: 8.465 E_MAP: 0.474 E_prec50: 0.745
+Step 5000  T_CE: 7.619 V_CE: 8.565 V_MAP: 0.476 V_prec50: 0.704 E_CE: 8.457 E_MAP: 0.475 E_prec50: 0.744
+Step 5500  T_CE: 7.559 V_CE: 8.568 V_MAP: 0.476 V_prec50: 0.706 E_CE: 8.457 E_MAP: 0.476 E_prec50: 0.745
+Step 6000  T_CE: 7.503 V_CE: 8.576 V_MAP: 0.476 V_prec50: 0.707 E_CE: 8.470 E_MAP: 0.476 E_prec50: 0.748
+Step 6500  T_CE: 7.453 V_CE: 8.586 V_MAP: 0.477 V_prec50: 0.707 E_CE: 8.470 E_MAP: 0.476 E_prec50: 0.749
+Step 7000  T_CE: 7.408 V_CE: 8.581 V_MAP: 0.477 V_prec50: 0.708 E_CE: 8.474 E_MAP: 0.477 E_prec50: 0.749
+Step 7500  T_CE: 7.366 V_CE: 8.589 V_MAP: 0.477 V_prec50: 0.711 E_CE: 8.479 E_MAP: 0.477 E_prec50: 0.749
+Step 8000  T_CE: 7.327 V_CE: 8.599 V_MAP: 0.477 V_prec50: 0.711 E_CE: 8.484 E_MAP: 0.477 E_prec50: 0.750
+Step 8500  T_CE: 7.290 V_CE: 8.608 V_MAP: 0.477 V_prec50: 0.713 E_CE: 8.498 E_MAP: 0.477 E_prec50: 0.752
+Step 9000  T_CE: 7.256 V_CE: 8.624 V_MAP: 0.476 V_prec50: 0.713 E_CE: 8.510 E_MAP: 0.476 E_prec50: 0.752
+Step 9500  T_CE: 7.225 V_CE: 8.627 V_MAP: 0.476 V_prec50: 0.711 E_CE: 8.510 E_MAP: 0.476 E_prec50: 0.752
+Step 10000  T_CE: 7.196 V_CE: 8.631 V_MAP: 0.476 V_prec50: 0.713 E_CE: 8.516 E_MAP: 0.476 E_prec50: 0.755
+Writing checkpoint /home/ubuntu/pynb/flickr/dbn_models/classifiers/split_4/image_hidden2_classifier_1485019873
+Best valid MAP : 0.4772 Test MAP 0.4767
+Writing current best model /home/ubuntu/pynb/flickr/dbn_models/classifiers/split_4/image_hidden2_classifier_BEST
+Split 4 joint_hidden
+Step 500  T_CE: 8.522 V_CE: 7.899 V_MAP: 0.597 V_prec50: 0.826 E_CE: 7.777 E_MAP: 0.592 E_prec50: 0.853
+Step 1000  T_CE: 7.301 V_CE: 7.634 V_MAP: 0.615 V_prec50: 0.844 E_CE: 7.494 E_MAP: 0.612 E_prec50: 0.868
+Step 1500  T_CE: 6.959 V_CE: 7.612 V_MAP: 0.622 V_prec50: 0.845 E_CE: 7.479 E_MAP: 0.620 E_prec50: 0.874
+Step 2000  T_CE: 6.745 V_CE: 7.516 V_MAP: 0.626 V_prec50: 0.850 E_CE: 7.360 E_MAP: 0.624 E_prec50: 0.876
+Step 2500  T_CE: 6.585 V_CE: 7.501 V_MAP: 0.628 V_prec50: 0.852 E_CE: 7.348 E_MAP: 0.626 E_prec50: 0.878
+Step 3000  T_CE: 6.452 V_CE: 7.504 V_MAP: 0.629 V_prec50: 0.852 E_CE: 7.349 E_MAP: 0.627 E_prec50: 0.874
+Step 3500  T_CE: 6.341 V_CE: 7.509 V_MAP: 0.629 V_prec50: 0.854 E_CE: 7.354 E_MAP: 0.628 E_prec50: 0.876
+Step 4000  T_CE: 6.249 V_CE: 7.526 V_MAP: 0.630 V_prec50: 0.853 E_CE: 7.361 E_MAP: 0.628 E_prec50: 0.876
+Step 4500  T_CE: 6.160 V_CE: 7.548 V_MAP: 0.630 V_prec50: 0.856 E_CE: 7.377 E_MAP: 0.628 E_prec50: 0.877
+Step 5000  T_CE: 6.084 V_CE: 7.540 V_MAP: 0.629 V_prec50: 0.853 E_CE: 7.371 E_MAP: 0.628 E_prec50: 0.877
+Step 5500  T_CE: 6.010 V_CE: 7.607 V_MAP: 0.629 V_prec50: 0.851 E_CE: 7.434 E_MAP: 0.627 E_prec50: 0.877
+Step 6000  T_CE: 5.947 V_CE: 7.583 V_MAP: 0.629 V_prec50: 0.851 E_CE: 7.417 E_MAP: 0.627 E_prec50: 0.878
+Step 6500  T_CE: 5.881 V_CE: 7.608 V_MAP: 0.628 V_prec50: 0.851 E_CE: 7.451 E_MAP: 0.626 E_prec50: 0.879
+Step 7000  T_CE: 5.827 V_CE: 7.648 V_MAP: 0.627 V_prec50: 0.849 E_CE: 7.486 E_MAP: 0.625 E_prec50: 0.878
+Step 7500  T_CE: 5.772 V_CE: 7.685 V_MAP: 0.627 V_prec50: 0.848 E_CE: 7.510 E_MAP: 0.624 E_prec50: 0.880
+Step 8000  T_CE: 5.727 V_CE: 7.701 V_MAP: 0.626 V_prec50: 0.846 E_CE: 7.540 E_MAP: 0.623 E_prec50: 0.878
+Step 8500  T_CE: 5.677 V_CE: 7.683 V_MAP: 0.626 V_prec50: 0.847 E_CE: 7.522 E_MAP: 0.623 E_prec50: 0.877
+Step 9000  T_CE: 5.635 V_CE: 7.742 V_MAP: 0.625 V_prec50: 0.848 E_CE: 7.569 E_MAP: 0.622 E_prec50: 0.878
+Step 9500  T_CE: 5.595 V_CE: 7.725 V_MAP: 0.624 V_prec50: 0.847 E_CE: 7.568 E_MAP: 0.621 E_prec50: 0.878
+Step 10000  T_CE: 5.553 V_CE: 7.768 V_MAP: 0.624 V_prec50: 0.846 E_CE: 7.631 E_MAP: 0.620 E_prec50: 0.877
+Writing checkpoint /home/ubuntu/pynb/flickr/dbn_models/classifiers/split_4/joint_hidden_classifier_1485019895
+Best valid MAP : 0.6300 Test MAP 0.6282
+Writing current best model /home/ubuntu/pynb/flickr/dbn_models/classifiers/split_4/joint_hidden_classifier_BEST
+Split 4 text_hidden2
+Step 500  T_CE: 10.060 V_CE: 9.404 V_MAP: 0.457 V_prec50: 0.722 E_CE: 9.276 E_MAP: 0.463 E_prec50: 0.776
+Step 1000  T_CE: 8.890 V_CE: 9.126 V_MAP: 0.489 V_prec50: 0.766 E_CE: 8.973 E_MAP: 0.497 E_prec50: 0.807
+Step 1500  T_CE: 8.586 V_CE: 9.047 V_MAP: 0.502 V_prec50: 0.784 E_CE: 8.880 E_MAP: 0.509 E_prec50: 0.825
+Step 2000  T_CE: 8.411 V_CE: 9.006 V_MAP: 0.507 V_prec50: 0.792 E_CE: 8.846 E_MAP: 0.516 E_prec50: 0.833
+Step 2500  T_CE: 8.288 V_CE: 8.994 V_MAP: 0.511 V_prec50: 0.797 E_CE: 8.829 E_MAP: 0.519 E_prec50: 0.838
+Step 3000  T_CE: 8.191 V_CE: 8.992 V_MAP: 0.513 V_prec50: 0.797 E_CE: 8.822 E_MAP: 0.521 E_prec50: 0.838
+Step 3500  T_CE: 8.110 V_CE: 9.007 V_MAP: 0.513 V_prec50: 0.799 E_CE: 8.836 E_MAP: 0.521 E_prec50: 0.839
+Step 4000  T_CE: 8.040 V_CE: 9.022 V_MAP: 0.514 V_prec50: 0.802 E_CE: 8.851 E_MAP: 0.521 E_prec50: 0.838
+Step 4500  T_CE: 7.981 V_CE: 9.038 V_MAP: 0.513 V_prec50: 0.803 E_CE: 8.865 E_MAP: 0.520 E_prec50: 0.836
+Step 5000  T_CE: 7.926 V_CE: 9.050 V_MAP: 0.513 V_prec50: 0.804 E_CE: 8.882 E_MAP: 0.520 E_prec50: 0.837
+Step 5500  T_CE: 7.878 V_CE: 9.059 V_MAP: 0.512 V_prec50: 0.801 E_CE: 8.887 E_MAP: 0.519 E_prec50: 0.837
+Step 6000  T_CE: 7.833 V_CE: 9.076 V_MAP: 0.513 V_prec50: 0.802 E_CE: 8.914 E_MAP: 0.518 E_prec50: 0.839
+Step 6500  T_CE: 7.792 V_CE: 9.090 V_MAP: 0.512 V_prec50: 0.801 E_CE: 8.917 E_MAP: 0.518 E_prec50: 0.837
+Step 7000  T_CE: 7.755 V_CE: 9.105 V_MAP: 0.512 V_prec50: 0.798 E_CE: 8.938 E_MAP: 0.517 E_prec50: 0.838
+Step 7500  T_CE: 7.721 V_CE: 9.124 V_MAP: 0.511 V_prec50: 0.799 E_CE: 8.960 E_MAP: 0.516 E_prec50: 0.836
+Step 8000  T_CE: 7.689 V_CE: 9.146 V_MAP: 0.511 V_prec50: 0.800 E_CE: 8.981 E_MAP: 0.515 E_prec50: 0.836
+Step 8500  T_CE: 7.657 V_CE: 9.162 V_MAP: 0.510 V_prec50: 0.800 E_CE: 8.999 E_MAP: 0.514 E_prec50: 0.835
+Step 9000  T_CE: 7.630 V_CE: 9.210 V_MAP: 0.510 V_prec50: 0.798 E_CE: 9.054 E_MAP: 0.513 E_prec50: 0.835
+Step 9500  T_CE: 7.604 V_CE: 9.201 V_MAP: 0.509 V_prec50: 0.798 E_CE: 9.028 E_MAP: 0.512 E_prec50: 0.833
+Step 10000  T_CE: 7.580 V_CE: 9.208 V_MAP: 0.508 V_prec50: 0.798 E_CE: 9.043 E_MAP: 0.511 E_prec50: 0.832
+Writing checkpoint /home/ubuntu/pynb/flickr/dbn_models/classifiers/split_4/text_hidden2_classifier_1485019916
+Best valid MAP : 0.5139 Test MAP 0.5206
+Writing current best model /home/ubuntu/pynb/flickr/dbn_models/classifiers/split_4/text_hidden2_classifier_BEST
+Split 4 text_hidden1
+Step 500  T_CE: 9.824 V_CE: 9.375 V_MAP: 0.479 V_prec50: 0.757 E_CE: 9.230 E_MAP: 0.486 E_prec50: 0.803
+Step 1000  T_CE: 8.795 V_CE: 9.185 V_MAP: 0.500 V_prec50: 0.779 E_CE: 9.023 E_MAP: 0.507 E_prec50: 0.822
+Step 1500  T_CE: 8.501 V_CE: 9.167 V_MAP: 0.505 V_prec50: 0.789 E_CE: 8.991 E_MAP: 0.511 E_prec50: 0.826
+Step 2000  T_CE: 8.319 V_CE: 9.131 V_MAP: 0.507 V_prec50: 0.792 E_CE: 8.963 E_MAP: 0.513 E_prec50: 0.828
+Step 2500  T_CE: 8.187 V_CE: 9.145 V_MAP: 0.507 V_prec50: 0.794 E_CE: 8.972 E_MAP: 0.513 E_prec50: 0.831
+Step 3000  T_CE: 8.080 V_CE: 9.173 V_MAP: 0.508 V_prec50: 0.795 E_CE: 8.995 E_MAP: 0.513 E_prec50: 0.832
+Step 3500  T_CE: 7.994 V_CE: 9.207 V_MAP: 0.508 V_prec50: 0.793 E_CE: 9.027 E_MAP: 0.514 E_prec50: 0.835
+Step 4000  T_CE: 7.918 V_CE: 9.237 V_MAP: 0.508 V_prec50: 0.794 E_CE: 9.056 E_MAP: 0.511 E_prec50: 0.833
+Step 4500  T_CE: 7.854 V_CE: 9.268 V_MAP: 0.507 V_prec50: 0.793 E_CE: 9.085 E_MAP: 0.511 E_prec50: 0.835
+Step 5000  T_CE: 7.798 V_CE: 9.326 V_MAP: 0.507 V_prec50: 0.791 E_CE: 9.146 E_MAP: 0.509 E_prec50: 0.836
+Step 5500  T_CE: 7.748 V_CE: 9.322 V_MAP: 0.505 V_prec50: 0.789 E_CE: 9.135 E_MAP: 0.507 E_prec50: 0.834
+Step 6000  T_CE: 7.701 V_CE: 9.346 V_MAP: 0.504 V_prec50: 0.789 E_CE: 9.174 E_MAP: 0.507 E_prec50: 0.833
+Step 6500  T_CE: 7.660 V_CE: 9.399 V_MAP: 0.504 V_prec50: 0.789 E_CE: 9.217 E_MAP: 0.506 E_prec50: 0.832
+Step 7000  T_CE: 7.621 V_CE: 9.405 V_MAP: 0.502 V_prec50: 0.788 E_CE: 9.221 E_MAP: 0.504 E_prec50: 0.831
+Step 7500  T_CE: 7.589 V_CE: 9.439 V_MAP: 0.501 V_prec50: 0.788 E_CE: 9.264 E_MAP: 0.503 E_prec50: 0.830
+Step 8000  T_CE: 7.558 V_CE: 9.482 V_MAP: 0.501 V_prec50: 0.786 E_CE: 9.293 E_MAP: 0.502 E_prec50: 0.828
+Step 8500  T_CE: 7.528 V_CE: 9.512 V_MAP: 0.499 V_prec50: 0.785 E_CE: 9.334 E_MAP: 0.501 E_prec50: 0.829
+Step 9000  T_CE: 7.504 V_CE: 9.567 V_MAP: 0.498 V_prec50: 0.786 E_CE: 9.388 E_MAP: 0.499 E_prec50: 0.828
+Step 9500  T_CE: 7.480 V_CE: 9.559 V_MAP: 0.497 V_prec50: 0.784 E_CE: 9.366 E_MAP: 0.498 E_prec50: 0.829
+Step 10000  T_CE: 7.458 V_CE: 9.587 V_MAP: 0.495 V_prec50: 0.785 E_CE: 9.406 E_MAP: 0.495 E_prec50: 0.827
+Writing checkpoint /home/ubuntu/pynb/flickr/dbn_models/classifiers/split_4/text_hidden1_classifier_1485019937
+Best valid MAP : 0.5082 Test MAP 0.5136
+Writing current best model /home/ubuntu/pynb/flickr/dbn_models/classifiers/split_4/text_hidden1_classifier_BEST
+Split 4 text_input
+Step 500  T_CE: 16.020 V_CE: 12.802 V_MAP: 0.318 V_prec50: 0.618 E_CE: 12.756 E_MAP: 0.327 E_prec50: 0.683
+Step 1000  T_CE: 12.191 V_CE: 11.890 V_MAP: 0.383 V_prec50: 0.680 E_CE: 11.833 E_MAP: 0.394 E_prec50: 0.750
+Step 1500  T_CE: 11.646 V_CE: 11.571 V_MAP: 0.410 V_prec50: 0.711 E_CE: 11.506 E_MAP: 0.423 E_prec50: 0.767
+Step 2000  T_CE: 11.384 V_CE: 11.376 V_MAP: 0.425 V_prec50: 0.722 E_CE: 11.303 E_MAP: 0.438 E_prec50: 0.771
+Step 2500  T_CE: 11.198 V_CE: 11.228 V_MAP: 0.434 V_prec50: 0.725 E_CE: 11.147 E_MAP: 0.447 E_prec50: 0.778
+Step 3000  T_CE: 11.047 V_CE: 11.105 V_MAP: 0.441 V_prec50: 0.728 E_CE: 11.017 E_MAP: 0.453 E_prec50: 0.782
+Step 3500  T_CE: 10.917 V_CE: 10.998 V_MAP: 0.446 V_prec50: 0.736 E_CE: 10.902 E_MAP: 0.457 E_prec50: 0.786
+Step 4000  T_CE: 10.801 V_CE: 10.902 V_MAP: 0.450 V_prec50: 0.737 E_CE: 10.800 E_MAP: 0.460 E_prec50: 0.788
+Step 4500  T_CE: 10.695 V_CE: 10.816 V_MAP: 0.452 V_prec50: 0.739 E_CE: 10.709 E_MAP: 0.463 E_prec50: 0.788
+Step 5000  T_CE: 10.599 V_CE: 10.739 V_MAP: 0.454 V_prec50: 0.743 E_CE: 10.625 E_MAP: 0.465 E_prec50: 0.788
+Step 5500  T_CE: 10.511 V_CE: 10.667 V_MAP: 0.455 V_prec50: 0.744 E_CE: 10.549 E_MAP: 0.467 E_prec50: 0.789
+Step 6000  T_CE: 10.430 V_CE: 10.602 V_MAP: 0.456 V_prec50: 0.742 E_CE: 10.479 E_MAP: 0.469 E_prec50: 0.791
+Step 6500  T_CE: 10.354 V_CE: 10.542 V_MAP: 0.457 V_prec50: 0.741 E_CE: 10.415 E_MAP: 0.469 E_prec50: 0.793
+Step 7000  T_CE: 10.283 V_CE: 10.487 V_MAP: 0.459 V_prec50: 0.743 E_CE: 10.355 E_MAP: 0.470 E_prec50: 0.794
+Step 7500  T_CE: 10.217 V_CE: 10.436 V_MAP: 0.459 V_prec50: 0.744 E_CE: 10.301 E_MAP: 0.471 E_prec50: 0.797
+Step 8000  T_CE: 10.156 V_CE: 10.388 V_MAP: 0.459 V_prec50: 0.744 E_CE: 10.250 E_MAP: 0.472 E_prec50: 0.795
+Step 8500  T_CE: 10.098 V_CE: 10.344 V_MAP: 0.460 V_prec50: 0.746 E_CE: 10.203 E_MAP: 0.472 E_prec50: 0.796
+Step 9000  T_CE: 10.044 V_CE: 10.303 V_MAP: 0.461 V_prec50: 0.746 E_CE: 10.159 E_MAP: 0.472 E_prec50: 0.795
+Step 9500  T_CE: 9.992 V_CE: 10.265 V_MAP: 0.462 V_prec50: 0.747 E_CE: 10.118 E_MAP: 0.473 E_prec50: 0.795
+Step 10000  T_CE: 9.944 V_CE: 10.229 V_MAP: 0.462 V_prec50: 0.749 E_CE: 10.080 E_MAP: 0.473 E_prec50: 0.797
+Writing checkpoint /home/ubuntu/pynb/flickr/dbn_models/classifiers/split_4/text_input_classifier_1485019958
+Best valid MAP : 0.4623 Test MAP 0.4733
+Writing current best model /home/ubuntu/pynb/flickr/dbn_models/classifiers/split_4/text_input_classifier_BEST
+Split 5 image_input
+Step 500  T_CE: 13.463 V_CE: 11.049 V_MAP: 0.394 V_prec50: 0.603 E_CE: 11.044 E_MAP: 0.384 E_prec50: 0.604
+Step 1000  T_CE: 7.993 V_CE: 10.068 V_MAP: 0.420 V_prec50: 0.643 E_CE: 9.996 E_MAP: 0.413 E_prec50: 0.653
+Step 1500  T_CE: 6.809 V_CE: 9.912 V_MAP: 0.422 V_prec50: 0.637 E_CE: 9.785 E_MAP: 0.413 E_prec50: 0.656
+Step 2000  T_CE: 6.179 V_CE: 10.007 V_MAP: 0.424 V_prec50: 0.647 E_CE: 9.878 E_MAP: 0.416 E_prec50: 0.655
+Step 2500  T_CE: 5.764 V_CE: 10.230 V_MAP: 0.421 V_prec50: 0.641 E_CE: 10.061 E_MAP: 0.413 E_prec50: 0.654
+Step 3000  T_CE: 5.460 V_CE: 10.354 V_MAP: 0.418 V_prec50: 0.641 E_CE: 10.194 E_MAP: 0.409 E_prec50: 0.641
+Step 3500  T_CE: 5.204 V_CE: 10.511 V_MAP: 0.415 V_prec50: 0.632 E_CE: 10.354 E_MAP: 0.405 E_prec50: 0.651
+Step 4000  T_CE: 5.005 V_CE: 10.745 V_MAP: 0.412 V_prec50: 0.630 E_CE: 10.573 E_MAP: 0.402 E_prec50: 0.642
+Step 4500  T_CE: 4.835 V_CE: 10.964 V_MAP: 0.410 V_prec50: 0.623 E_CE: 10.749 E_MAP: 0.398 E_prec50: 0.630
+Step 5000  T_CE: 4.691 V_CE: 11.172 V_MAP: 0.407 V_prec50: 0.624 E_CE: 10.946 E_MAP: 0.399 E_prec50: 0.640
+Step 5500  T_CE: 4.567 V_CE: 11.379 V_MAP: 0.407 V_prec50: 0.627 E_CE: 11.152 E_MAP: 0.398 E_prec50: 0.634
+Step 6000  T_CE: 4.450 V_CE: 11.622 V_MAP: 0.404 V_prec50: 0.614 E_CE: 11.412 E_MAP: 0.393 E_prec50: 0.622
+Step 6500  T_CE: 4.360 V_CE: 11.848 V_MAP: 0.405 V_prec50: 0.618 E_CE: 11.582 E_MAP: 0.396 E_prec50: 0.632
+Step 7000  T_CE: 4.263 V_CE: 11.913 V_MAP: 0.402 V_prec50: 0.613 E_CE: 11.703 E_MAP: 0.391 E_prec50: 0.624
+Step 7500  T_CE: 4.185 V_CE: 12.108 V_MAP: 0.400 V_prec50: 0.610 E_CE: 11.893 E_MAP: 0.388 E_prec50: 0.615
+Step 8000  T_CE: 4.119 V_CE: 12.373 V_MAP: 0.398 V_prec50: 0.612 E_CE: 12.090 E_MAP: 0.388 E_prec50: 0.623
+Step 8500  T_CE: 4.046 V_CE: 12.548 V_MAP: 0.397 V_prec50: 0.606 E_CE: 12.329 E_MAP: 0.386 E_prec50: 0.615
+Step 9000  T_CE: 3.992 V_CE: 12.706 V_MAP: 0.396 V_prec50: 0.606 E_CE: 12.468 E_MAP: 0.386 E_prec50: 0.614
+Step 9500  T_CE: 3.937 V_CE: 12.794 V_MAP: 0.396 V_prec50: 0.610 E_CE: 12.569 E_MAP: 0.386 E_prec50: 0.620
+Step 10000  T_CE: 3.885 V_CE: 13.040 V_MAP: 0.396 V_prec50: 0.607 E_CE: 12.808 E_MAP: 0.386 E_prec50: 0.621
+Writing checkpoint /home/ubuntu/pynb/flickr/dbn_models/classifiers/split_5/image_input_classifier_1485019983
+Best valid MAP : 0.4243 Test MAP 0.4155
+Writing current best model /home/ubuntu/pynb/flickr/dbn_models/classifiers/split_5/image_input_classifier_BEST
+Split 5 image_hidden1
+Step 500  T_CE: 9.616 V_CE: 9.216 V_MAP: 0.407 V_prec50: 0.621 E_CE: 9.014 E_MAP: 0.405 E_prec50: 0.657
+Step 1000  T_CE: 8.536 V_CE: 8.926 V_MAP: 0.437 V_prec50: 0.660 E_CE: 8.719 E_MAP: 0.433 E_prec50: 0.697
+Step 1500  T_CE: 8.130 V_CE: 8.796 V_MAP: 0.452 V_prec50: 0.680 E_CE: 8.585 E_MAP: 0.448 E_prec50: 0.714
+Step 2000  T_CE: 7.853 V_CE: 8.730 V_MAP: 0.463 V_prec50: 0.697 E_CE: 8.514 E_MAP: 0.456 E_prec50: 0.728
+Step 2500  T_CE: 7.637 V_CE: 8.683 V_MAP: 0.469 V_prec50: 0.701 E_CE: 8.475 E_MAP: 0.462 E_prec50: 0.740
+Step 3000  T_CE: 7.459 V_CE: 8.663 V_MAP: 0.474 V_prec50: 0.707 E_CE: 8.459 E_MAP: 0.465 E_prec50: 0.739
+Step 3500  T_CE: 7.308 V_CE: 8.653 V_MAP: 0.477 V_prec50: 0.704 E_CE: 8.446 E_MAP: 0.468 E_prec50: 0.746
+Step 4000  T_CE: 7.175 V_CE: 8.648 V_MAP: 0.479 V_prec50: 0.714 E_CE: 8.438 E_MAP: 0.470 E_prec50: 0.750
+Step 4500  T_CE: 7.057 V_CE: 8.669 V_MAP: 0.481 V_prec50: 0.713 E_CE: 8.454 E_MAP: 0.471 E_prec50: 0.750
+Step 5000  T_CE: 6.950 V_CE: 8.672 V_MAP: 0.480 V_prec50: 0.716 E_CE: 8.469 E_MAP: 0.470 E_prec50: 0.750
+Step 5500  T_CE: 6.854 V_CE: 8.681 V_MAP: 0.481 V_prec50: 0.714 E_CE: 8.469 E_MAP: 0.471 E_prec50: 0.750
+Step 6000  T_CE: 6.764 V_CE: 8.703 V_MAP: 0.482 V_prec50: 0.715 E_CE: 8.491 E_MAP: 0.471 E_prec50: 0.753
+Step 6500  T_CE: 6.682 V_CE: 8.725 V_MAP: 0.482 V_prec50: 0.716 E_CE: 8.511 E_MAP: 0.471 E_prec50: 0.750
+Step 7000  T_CE: 6.608 V_CE: 8.745 V_MAP: 0.481 V_prec50: 0.718 E_CE: 8.533 E_MAP: 0.470 E_prec50: 0.751
+Step 7500  T_CE: 6.537 V_CE: 8.762 V_MAP: 0.481 V_prec50: 0.715 E_CE: 8.555 E_MAP: 0.470 E_prec50: 0.751
+Step 8000  T_CE: 6.471 V_CE: 8.803 V_MAP: 0.481 V_prec50: 0.715 E_CE: 8.586 E_MAP: 0.469 E_prec50: 0.749
+Step 8500  T_CE: 6.408 V_CE: 8.830 V_MAP: 0.480 V_prec50: 0.716 E_CE: 8.618 E_MAP: 0.469 E_prec50: 0.749
+Step 9000  T_CE: 6.351 V_CE: 8.852 V_MAP: 0.480 V_prec50: 0.715 E_CE: 8.639 E_MAP: 0.468 E_prec50: 0.748
+Step 9500  T_CE: 6.297 V_CE: 8.866 V_MAP: 0.479 V_prec50: 0.717 E_CE: 8.655 E_MAP: 0.468 E_prec50: 0.749
+Step 10000  T_CE: 6.246 V_CE: 8.886 V_MAP: 0.479 V_prec50: 0.714 E_CE: 8.670 E_MAP: 0.467 E_prec50: 0.746
+Writing checkpoint /home/ubuntu/pynb/flickr/dbn_models/classifiers/split_5/image_hidden1_classifier_1485020004
+Best valid MAP : 0.4818 Test MAP 0.4710
+Writing current best model /home/ubuntu/pynb/flickr/dbn_models/classifiers/split_5/image_hidden1_classifier_BEST
+Split 5 image_hidden2
+Step 500  T_CE: 9.909 V_CE: 9.313 V_MAP: 0.404 V_prec50: 0.615 E_CE: 9.121 E_MAP: 0.403 E_prec50: 0.646
+Step 1000  T_CE: 8.794 V_CE: 8.992 V_MAP: 0.432 V_prec50: 0.648 E_CE: 8.791 E_MAP: 0.429 E_prec50: 0.688
+Step 1500  T_CE: 8.454 V_CE: 8.846 V_MAP: 0.446 V_prec50: 0.671 E_CE: 8.641 E_MAP: 0.443 E_prec50: 0.703
+Step 2000  T_CE: 8.242 V_CE: 8.766 V_MAP: 0.454 V_prec50: 0.683 E_CE: 8.559 E_MAP: 0.452 E_prec50: 0.714
+Step 2500  T_CE: 8.087 V_CE: 8.720 V_MAP: 0.460 V_prec50: 0.693 E_CE: 8.511 E_MAP: 0.458 E_prec50: 0.724
+Step 3000  T_CE: 7.964 V_CE: 8.685 V_MAP: 0.464 V_prec50: 0.699 E_CE: 8.478 E_MAP: 0.462 E_prec50: 0.733
+Step 3500  T_CE: 7.864 V_CE: 8.674 V_MAP: 0.468 V_prec50: 0.703 E_CE: 8.465 E_MAP: 0.465 E_prec50: 0.735
+Step 4000  T_CE: 7.777 V_CE: 8.654 V_MAP: 0.470 V_prec50: 0.708 E_CE: 8.448 E_MAP: 0.467 E_prec50: 0.737
+Step 4500  T_CE: 7.703 V_CE: 8.648 V_MAP: 0.472 V_prec50: 0.711 E_CE: 8.441 E_MAP: 0.468 E_prec50: 0.736
+Step 5000  T_CE: 7.636 V_CE: 8.646 V_MAP: 0.473 V_prec50: 0.707 E_CE: 8.435 E_MAP: 0.470 E_prec50: 0.736
+Step 5500  T_CE: 7.577 V_CE: 8.645 V_MAP: 0.475 V_prec50: 0.708 E_CE: 8.440 E_MAP: 0.470 E_prec50: 0.736
+Step 6000  T_CE: 7.524 V_CE: 8.655 V_MAP: 0.475 V_prec50: 0.709 E_CE: 8.445 E_MAP: 0.471 E_prec50: 0.737
+Step 6500  T_CE: 7.476 V_CE: 8.654 V_MAP: 0.476 V_prec50: 0.709 E_CE: 8.445 E_MAP: 0.471 E_prec50: 0.737
+Step 7000  T_CE: 7.430 V_CE: 8.658 V_MAP: 0.476 V_prec50: 0.711 E_CE: 8.449 E_MAP: 0.471 E_prec50: 0.741
+Step 7500  T_CE: 7.390 V_CE: 8.674 V_MAP: 0.476 V_prec50: 0.712 E_CE: 8.466 E_MAP: 0.471 E_prec50: 0.739
+Step 8000  T_CE: 7.352 V_CE: 8.670 V_MAP: 0.476 V_prec50: 0.710 E_CE: 8.460 E_MAP: 0.471 E_prec50: 0.737
+Step 8500  T_CE: 7.316 V_CE: 8.680 V_MAP: 0.477 V_prec50: 0.710 E_CE: 8.471 E_MAP: 0.471 E_prec50: 0.739
+Step 9000  T_CE: 7.283 V_CE: 8.690 V_MAP: 0.476 V_prec50: 0.707 E_CE: 8.481 E_MAP: 0.471 E_prec50: 0.736
+Step 9500  T_CE: 7.252 V_CE: 8.700 V_MAP: 0.477 V_prec50: 0.708 E_CE: 8.489 E_MAP: 0.471 E_prec50: 0.739
+Step 10000  T_CE: 7.224 V_CE: 8.720 V_MAP: 0.477 V_prec50: 0.707 E_CE: 8.507 E_MAP: 0.471 E_prec50: 0.737
+Writing checkpoint /home/ubuntu/pynb/flickr/dbn_models/classifiers/split_5/image_hidden2_classifier_1485020026
+Best valid MAP : 0.4767 Test MAP 0.4709
+Writing current best model /home/ubuntu/pynb/flickr/dbn_models/classifiers/split_5/image_hidden2_classifier_BEST
+Split 5 joint_hidden
+Step 500  T_CE: 8.519 V_CE: 7.982 V_MAP: 0.589 V_prec50: 0.820 E_CE: 7.755 E_MAP: 0.584 E_prec50: 0.850
+Step 1000  T_CE: 7.298 V_CE: 7.714 V_MAP: 0.609 V_prec50: 0.840 E_CE: 7.473 E_MAP: 0.604 E_prec50: 0.865
+Step 1500  T_CE: 6.954 V_CE: 7.650 V_MAP: 0.617 V_prec50: 0.853 E_CE: 7.405 E_MAP: 0.612 E_prec50: 0.870
+Step 2000  T_CE: 6.738 V_CE: 7.618 V_MAP: 0.621 V_prec50: 0.859 E_CE: 7.358 E_MAP: 0.616 E_prec50: 0.873
+Step 2500  T_CE: 6.573 V_CE: 7.567 V_MAP: 0.623 V_prec50: 0.860 E_CE: 7.309 E_MAP: 0.619 E_prec50: 0.873
+Step 3000  T_CE: 6.442 V_CE: 7.597 V_MAP: 0.625 V_prec50: 0.860 E_CE: 7.333 E_MAP: 0.620 E_prec50: 0.875
+Step 3500  T_CE: 6.331 V_CE: 7.574 V_MAP: 0.625 V_prec50: 0.860 E_CE: 7.310 E_MAP: 0.621 E_prec50: 0.876
+Step 4000  T_CE: 6.233 V_CE: 7.611 V_MAP: 0.625 V_prec50: 0.858 E_CE: 7.349 E_MAP: 0.621 E_prec50: 0.877
+Step 4500  T_CE: 6.143 V_CE: 7.662 V_MAP: 0.625 V_prec50: 0.858 E_CE: 7.387 E_MAP: 0.621 E_prec50: 0.875
+Step 5000  T_CE: 6.068 V_CE: 7.621 V_MAP: 0.625 V_prec50: 0.855 E_CE: 7.357 E_MAP: 0.621 E_prec50: 0.873
+Step 5500  T_CE: 5.999 V_CE: 7.644 V_MAP: 0.624 V_prec50: 0.856 E_CE: 7.374 E_MAP: 0.620 E_prec50: 0.873
+Step 6000  T_CE: 5.926 V_CE: 7.709 V_MAP: 0.624 V_prec50: 0.859 E_CE: 7.433 E_MAP: 0.620 E_prec50: 0.874
+Step 6500  T_CE: 5.869 V_CE: 7.716 V_MAP: 0.624 V_prec50: 0.858 E_CE: 7.457 E_MAP: 0.619 E_prec50: 0.873
+Step 7000  T_CE: 5.811 V_CE: 7.704 V_MAP: 0.623 V_prec50: 0.855 E_CE: 7.428 E_MAP: 0.618 E_prec50: 0.871
+Step 7500  T_CE: 5.760 V_CE: 7.752 V_MAP: 0.622 V_prec50: 0.853 E_CE: 7.485 E_MAP: 0.618 E_prec50: 0.872
+Step 8000  T_CE: 5.714 V_CE: 7.816 V_MAP: 0.622 V_prec50: 0.852 E_CE: 7.556 E_MAP: 0.617 E_prec50: 0.872
+Step 8500  T_CE: 5.662 V_CE: 7.775 V_MAP: 0.621 V_prec50: 0.852 E_CE: 7.511 E_MAP: 0.616 E_prec50: 0.871
+Step 9000  T_CE: 5.621 V_CE: 7.787 V_MAP: 0.621 V_prec50: 0.852 E_CE: 7.510 E_MAP: 0.615 E_prec50: 0.872
+Step 9500  T_CE: 5.577 V_CE: 7.833 V_MAP: 0.620 V_prec50: 0.850 E_CE: 7.559 E_MAP: 0.615 E_prec50: 0.871
+Step 10000  T_CE: 5.542 V_CE: 7.874 V_MAP: 0.620 V_prec50: 0.852 E_CE: 7.606 E_MAP: 0.614 E_prec50: 0.870
+Writing checkpoint /home/ubuntu/pynb/flickr/dbn_models/classifiers/split_5/joint_hidden_classifier_1485020047
+Best valid MAP : 0.6252 Test MAP 0.6205
+Writing current best model /home/ubuntu/pynb/flickr/dbn_models/classifiers/split_5/joint_hidden_classifier_BEST
+Split 5 text_hidden2
+Step 500  T_CE: 10.066 V_CE: 9.443 V_MAP: 0.458 V_prec50: 0.732 E_CE: 9.243 E_MAP: 0.465 E_prec50: 0.774
+Step 1000  T_CE: 8.888 V_CE: 9.160 V_MAP: 0.487 V_prec50: 0.777 E_CE: 8.943 E_MAP: 0.491 E_prec50: 0.804
+Step 1500  T_CE: 8.584 V_CE: 9.065 V_MAP: 0.499 V_prec50: 0.795 E_CE: 8.847 E_MAP: 0.502 E_prec50: 0.813
+Step 2000  T_CE: 8.409 V_CE: 9.033 V_MAP: 0.506 V_prec50: 0.796 E_CE: 8.811 E_MAP: 0.509 E_prec50: 0.817
+Step 2500  T_CE: 8.283 V_CE: 9.034 V_MAP: 0.509 V_prec50: 0.796 E_CE: 8.806 E_MAP: 0.511 E_prec50: 0.821
+Step 3000  T_CE: 8.185 V_CE: 9.031 V_MAP: 0.511 V_prec50: 0.803 E_CE: 8.803 E_MAP: 0.512 E_prec50: 0.821
+Step 3500  T_CE: 8.103 V_CE: 9.038 V_MAP: 0.511 V_prec50: 0.805 E_CE: 8.811 E_MAP: 0.513 E_prec50: 0.824
+Step 4000  T_CE: 8.033 V_CE: 9.050 V_MAP: 0.512 V_prec50: 0.807 E_CE: 8.824 E_MAP: 0.512 E_prec50: 0.821
+Step 4500  T_CE: 7.973 V_CE: 9.067 V_MAP: 0.513 V_prec50: 0.809 E_CE: 8.836 E_MAP: 0.512 E_prec50: 0.821
+Step 5000  T_CE: 7.918 V_CE: 9.078 V_MAP: 0.513 V_prec50: 0.810 E_CE: 8.847 E_MAP: 0.512 E_prec50: 0.820
+Step 5500  T_CE: 7.869 V_CE: 9.092 V_MAP: 0.512 V_prec50: 0.810 E_CE: 8.865 E_MAP: 0.510 E_prec50: 0.822
+Step 6000  T_CE: 7.824 V_CE: 9.124 V_MAP: 0.512 V_prec50: 0.808 E_CE: 8.892 E_MAP: 0.509 E_prec50: 0.818
+Step 6500  T_CE: 7.785 V_CE: 9.133 V_MAP: 0.512 V_prec50: 0.807 E_CE: 8.902 E_MAP: 0.509 E_prec50: 0.820
+Step 7000  T_CE: 7.746 V_CE: 9.142 V_MAP: 0.509 V_prec50: 0.806 E_CE: 8.913 E_MAP: 0.508 E_prec50: 0.817
+Step 7500  T_CE: 7.714 V_CE: 9.162 V_MAP: 0.510 V_prec50: 0.807 E_CE: 8.937 E_MAP: 0.507 E_prec50: 0.820
+Step 8000  T_CE: 7.681 V_CE: 9.176 V_MAP: 0.508 V_prec50: 0.806 E_CE: 8.947 E_MAP: 0.506 E_prec50: 0.819
+Step 8500  T_CE: 7.651 V_CE: 9.186 V_MAP: 0.510 V_prec50: 0.805 E_CE: 8.956 E_MAP: 0.506 E_prec50: 0.820
+Step 9000  T_CE: 7.625 V_CE: 9.207 V_MAP: 0.509 V_prec50: 0.805 E_CE: 8.977 E_MAP: 0.505 E_prec50: 0.821
+Step 9500  T_CE: 7.598 V_CE: 9.227 V_MAP: 0.507 V_prec50: 0.805 E_CE: 8.999 E_MAP: 0.504 E_prec50: 0.821
+Step 10000  T_CE: 7.573 V_CE: 9.254 V_MAP: 0.506 V_prec50: 0.802 E_CE: 9.018 E_MAP: 0.503 E_prec50: 0.820
+Writing checkpoint /home/ubuntu/pynb/flickr/dbn_models/classifiers/split_5/text_hidden2_classifier_1485020068
+Best valid MAP : 0.5129 Test MAP 0.5116
+Writing current best model /home/ubuntu/pynb/flickr/dbn_models/classifiers/split_5/text_hidden2_classifier_BEST
+Split 5 text_hidden1
+Step 500  T_CE: 9.833 V_CE: 9.417 V_MAP: 0.478 V_prec50: 0.768 E_CE: 9.222 E_MAP: 0.479 E_prec50: 0.799
+Step 1000  T_CE: 8.805 V_CE: 9.207 V_MAP: 0.497 V_prec50: 0.794 E_CE: 8.996 E_MAP: 0.499 E_prec50: 0.814
+Step 1500  T_CE: 8.513 V_CE: 9.160 V_MAP: 0.502 V_prec50: 0.800 E_CE: 8.948 E_MAP: 0.504 E_prec50: 0.818
+Step 2000  T_CE: 8.332 V_CE: 9.162 V_MAP: 0.506 V_prec50: 0.800 E_CE: 8.946 E_MAP: 0.506 E_prec50: 0.817
+Step 2500  T_CE: 8.198 V_CE: 9.176 V_MAP: 0.507 V_prec50: 0.802 E_CE: 8.955 E_MAP: 0.505 E_prec50: 0.816
+Step 3000  T_CE: 8.092 V_CE: 9.188 V_MAP: 0.506 V_prec50: 0.807 E_CE: 8.967 E_MAP: 0.505 E_prec50: 0.820
+Step 3500  T_CE: 8.004 V_CE: 9.213 V_MAP: 0.505 V_prec50: 0.803 E_CE: 8.995 E_MAP: 0.503 E_prec50: 0.821
+Step 4000  T_CE: 7.928 V_CE: 9.248 V_MAP: 0.505 V_prec50: 0.804 E_CE: 9.028 E_MAP: 0.503 E_prec50: 0.820
+Step 4500  T_CE: 7.865 V_CE: 9.286 V_MAP: 0.503 V_prec50: 0.804 E_CE: 9.072 E_MAP: 0.502 E_prec50: 0.820
+Step 5000  T_CE: 7.808 V_CE: 9.314 V_MAP: 0.502 V_prec50: 0.802 E_CE: 9.094 E_MAP: 0.501 E_prec50: 0.818
+Step 5500  T_CE: 7.757 V_CE: 9.331 V_MAP: 0.502 V_prec50: 0.798 E_CE: 9.109 E_MAP: 0.499 E_prec50: 0.817
+Step 6000  T_CE: 7.713 V_CE: 9.403 V_MAP: 0.500 V_prec50: 0.796 E_CE: 9.173 E_MAP: 0.496 E_prec50: 0.815
+Step 6500  T_CE: 7.674 V_CE: 9.400 V_MAP: 0.499 V_prec50: 0.797 E_CE: 9.175 E_MAP: 0.497 E_prec50: 0.814
+Step 7000  T_CE: 7.635 V_CE: 9.428 V_MAP: 0.497 V_prec50: 0.792 E_CE: 9.201 E_MAP: 0.495 E_prec50: 0.812
+Step 7500  T_CE: 7.604 V_CE: 9.471 V_MAP: 0.497 V_prec50: 0.789 E_CE: 9.244 E_MAP: 0.493 E_prec50: 0.812
+Step 8000  T_CE: 7.571 V_CE: 9.496 V_MAP: 0.496 V_prec50: 0.786 E_CE: 9.277 E_MAP: 0.492 E_prec50: 0.810
+Step 8500  T_CE: 7.544 V_CE: 9.507 V_MAP: 0.497 V_prec50: 0.788 E_CE: 9.284 E_MAP: 0.491 E_prec50: 0.809
+Step 9000  T_CE: 7.520 V_CE: 9.555 V_MAP: 0.495 V_prec50: 0.788 E_CE: 9.329 E_MAP: 0.490 E_prec50: 0.807
+Step 9500  T_CE: 7.495 V_CE: 9.587 V_MAP: 0.493 V_prec50: 0.785 E_CE: 9.362 E_MAP: 0.489 E_prec50: 0.805
+Step 10000  T_CE: 7.472 V_CE: 9.624 V_MAP: 0.492 V_prec50: 0.784 E_CE: 9.392 E_MAP: 0.488 E_prec50: 0.804
+Writing checkpoint /home/ubuntu/pynb/flickr/dbn_models/classifiers/split_5/text_hidden1_classifier_1485020090
+Best valid MAP : 0.5067 Test MAP 0.5052
+Writing current best model /home/ubuntu/pynb/flickr/dbn_models/classifiers/split_5/text_hidden1_classifier_BEST
+Split 5 text_input
+Step 500  T_CE: 16.018 V_CE: 12.827 V_MAP: 0.320 V_prec50: 0.630 E_CE: 12.741 E_MAP: 0.324 E_prec50: 0.670
+Step 1000  T_CE: 12.186 V_CE: 11.913 V_MAP: 0.382 V_prec50: 0.687 E_CE: 11.814 E_MAP: 0.389 E_prec50: 0.723
+Step 1500  T_CE: 11.635 V_CE: 11.590 V_MAP: 0.407 V_prec50: 0.709 E_CE: 11.487 E_MAP: 0.414 E_prec50: 0.735
+Step 2000  T_CE: 11.367 V_CE: 11.392 V_MAP: 0.423 V_prec50: 0.724 E_CE: 11.286 E_MAP: 0.428 E_prec50: 0.746
+Step 2500  T_CE: 11.178 V_CE: 11.242 V_MAP: 0.434 V_prec50: 0.732 E_CE: 11.132 E_MAP: 0.437 E_prec50: 0.754
+Step 3000  T_CE: 11.025 V_CE: 11.117 V_MAP: 0.439 V_prec50: 0.732 E_CE: 11.004 E_MAP: 0.443 E_prec50: 0.760
+Step 3500  T_CE: 10.892 V_CE: 11.009 V_MAP: 0.444 V_prec50: 0.735 E_CE: 10.892 E_MAP: 0.447 E_prec50: 0.765
+Step 4000  T_CE: 10.775 V_CE: 10.913 V_MAP: 0.447 V_prec50: 0.739 E_CE: 10.793 E_MAP: 0.449 E_prec50: 0.766
+Step 4500  T_CE: 10.670 V_CE: 10.827 V_MAP: 0.449 V_prec50: 0.743 E_CE: 10.703 E_MAP: 0.450 E_prec50: 0.767
+Step 5000  T_CE: 10.575 V_CE: 10.749 V_MAP: 0.451 V_prec50: 0.744 E_CE: 10.622 E_MAP: 0.453 E_prec50: 0.767
+Step 5500  T_CE: 10.487 V_CE: 10.678 V_MAP: 0.454 V_prec50: 0.745 E_CE: 10.548 E_MAP: 0.454 E_prec50: 0.768
+Step 6000  T_CE: 10.406 V_CE: 10.613 V_MAP: 0.455 V_prec50: 0.749 E_CE: 10.481 E_MAP: 0.455 E_prec50: 0.771
+Step 6500  T_CE: 10.332 V_CE: 10.554 V_MAP: 0.457 V_prec50: 0.752 E_CE: 10.418 E_MAP: 0.457 E_prec50: 0.773
+Step 7000  T_CE: 10.262 V_CE: 10.499 V_MAP: 0.458 V_prec50: 0.753 E_CE: 10.361 E_MAP: 0.458 E_prec50: 0.777
+Step 7500  T_CE: 10.198 V_CE: 10.447 V_MAP: 0.459 V_prec50: 0.755 E_CE: 10.308 E_MAP: 0.458 E_prec50: 0.779
+Step 8000  T_CE: 10.137 V_CE: 10.400 V_MAP: 0.460 V_prec50: 0.757 E_CE: 10.258 E_MAP: 0.459 E_prec50: 0.780
+Step 8500  T_CE: 10.080 V_CE: 10.356 V_MAP: 0.461 V_prec50: 0.759 E_CE: 10.213 E_MAP: 0.460 E_prec50: 0.781
+Step 9000  T_CE: 10.027 V_CE: 10.315 V_MAP: 0.462 V_prec50: 0.760 E_CE: 10.170 E_MAP: 0.460 E_prec50: 0.782
+Step 9500  T_CE: 9.977 V_CE: 10.277 V_MAP: 0.462 V_prec50: 0.762 E_CE: 10.131 E_MAP: 0.461 E_prec50: 0.784
+Step 10000  T_CE: 9.930 V_CE: 10.242 V_MAP: 0.463 V_prec50: 0.762 E_CE: 10.094 E_MAP: 0.461 E_prec50: 0.783
+Writing checkpoint /home/ubuntu/pynb/flickr/dbn_models/classifiers/split_5/text_input_classifier_1485020111
+Best valid MAP : 0.4629 Test MAP 0.4614
