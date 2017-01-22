@@ -1,8 +1,14 @@
-# Multimodal Deep Boltzmann Machine: 
-This is the code of my project joint representation using multimodal Deep Boltzmann Machines. It is realized in the course of Probabilistic Graphical Model and the course Object Recognition and Computer Vision in the MVA Master. 
+This is the structure of the code 
 
-The goal is to implement a Multi-DBM model with Tensorflow. This is inspired from the [paper]( http://papers.nips.cc/paper/4683-multimodal-learning-with-deep-boltzmann-machines.pdf) of Nitish Srivastava et al appeared at NIPS2012. 
-
-* MDBMCode is an implementation of the Multimodal Deep Boltzmann Machine on the top of [Deep_Learning_Tensorflow](https://github.com/blackecho/Deep-Learning-TensorFlow) library. 
-
-* txtGen is the code for generating tags to images without annotations. 
+* **config.py** a python configuration file that store the directory of the data and the directory to store the learned model.
+* **rbm.py** a python class that implements an RBM. It supports the binary and gaussion type of RBMs. 
+  We added to it another type, in order to include the Replicated Softmax Model of RBMs.
+* **dbm.py** a python class that implements a Deep Boltzmann Machine. It is implemented as stacked RBMs. 
+* **run_flickr_text_dbm.ipynb** is the python script that trains the text specific Deep Boltzmann Machine. It outputs **text_dbm_layer_i_W.npy** and **text_dbm_layer_i_b.npy** for layer i. 		 +
+* **run flickr image dbm.ipynb** is the python script that trains the image specific Deep Boltzmann Machine. It outputs **image_dbm_layer_i_W.npy** and **image_dbm_layer_i_b.npy** for layer i.		 +* **run_flickr_text_dbm.ipynb** is the python script that trains the text specific Deep Boltzmann Machine.  
+  It outputs **text_dbm_layer_i_W.npy** and **text_dbm_layer_i_b.npy** for layer i. 
+  
+* **run flickr image dbm.ipynb** is the python script that trains the image specific Deep Boltzmann Machine. 
+  It outputs **image_dbm_layer_i_W.npy** and **image_dbm_layer_i_b.npy** for layer i.
+  
+* **run_flickr_multimodal_dbm.ipynb** is the python script that implements the multimodal Deep Boltzmann Machine using the weights learned from the two precedent scripts.		  * **run_flickr_multimodal_dbm.ipynb** is the python script that implements the multimodal Deep Boltzmann Machine using the weights learned from the two precedent scripts.

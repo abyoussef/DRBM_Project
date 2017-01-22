@@ -19,7 +19,7 @@
 *.eps
 # *.pdf
 *.tex 
-*.pdf
+.pdf
 *.sty
 
 mirflickr*
