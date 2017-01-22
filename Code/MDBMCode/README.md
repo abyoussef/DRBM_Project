@@ -14,3 +14,6 @@ This is the structure of the code that implements the Multimodal Deep Boltzmann 
  It outputs **image_dbm_layer_i_W.npy** and **image_dbm_layer_i_b.npy** for layer i.
 
 * **run_flickr_multimodal_dbm.ipynb** is the python script that implements the multimodal Deep Boltzmann Machine using the weights learned from the two precedent scripts.
+
+
+This files are my contribution to the code. To find the working code, you can go to the [Deep_Learning_Tensorflow](https://github.com/abyoussef/Deep-Learning-TensorFlow/tree/master/command_line) repository. 
