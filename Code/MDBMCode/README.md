@@ -1,9 +1,9 @@
-This is the structure of the code 
+This is the structure of the code that implements the Multimodal Deep Boltzmann Machine :
 
 * **config.py** a python configuration file that store the directory of the data and the directory to store the learned model.
 
 * **rbm.py** a python class that implements an RBM. It supports the binary and gaussion type of RBMs. 
- We added to it another type, in order to include the Replicated Softmax Model of RBMs.
+ I added to it another type, in order to include the Replicated Softmax Model of RBMs.
 
 * **dbm.py** a python class that implements a Deep Boltzmann Machine. It is implemented as stacked RBMs. 
 
