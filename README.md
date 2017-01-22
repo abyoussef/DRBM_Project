@@ -3,6 +3,7 @@ This is the code of my project joint representation using multimodal Deep Boltzm
 
 The goal is to implement a Multi-DBM model with Tensorflow. This is inspired from the [paper]( http://papers.nips.cc/paper/4683-multimodal-learning-with-deep-boltzmann-machines.pdf) of Nitish Srivastava et al appeared at NIPS2012. 
 
+In the code directory, you can find : 
 * MDBMCode is an implementation of the Multimodal Deep Boltzmann Machine on the top of [Deep_Learning_Tensorflow](https://github.com/blackecho/Deep-Learning-TensorFlow) library. 
 
 * txtGen is the code for generating tags to images without annotations. 
