@@ -1,1 +1,1 @@
-Text generation from images without tags
+Script for text generation for images without tags. 
